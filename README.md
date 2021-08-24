@@ -19,7 +19,7 @@ ola, Eu sou a Ana Patricia ! Seja bem vindo 😁
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/></a>
 <a href="https://spring.io/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt = "primavera" largura = "40" altura = "40" /> </a>
   
-  ![Snake animation](https://github.com/patytavares/patytavares/blob/output/github-contribution-grid-snake.svg)
+
   
   <p align="center">
  Quantidade de visitas no meu perfil desde: 24/08/2021</p>
