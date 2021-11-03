@@ -1,4 +1,4 @@
-ola, Eu sou a Ana Patricia ! Seja bem vindo 😁
+Olá, sou a Ana Patricia ! Seja bem vindo 😁
 
 ![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=patytavares&show_icons=true&count_private=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patytavares&exclude_repo=cem_clipnet&layout=compact&theme=synthwave
